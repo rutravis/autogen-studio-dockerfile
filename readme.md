@@ -7,7 +7,7 @@ This repository contains a dockerfile which can be used to build a docker image 
 To build the docker image, run the following command in the root of this repository:
 
 ```bash
-docker build -t autogenstudio .
+docker build -t autogen-studio:latest .
 ```
 
 ## Running the docker image
