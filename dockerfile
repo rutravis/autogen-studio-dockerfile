@@ -1,4 +1,4 @@
-FROM python:3.10-slim
+FROM python:3.11-slim-bookworm
 
 # Copy application files and install dependencies
 COPY . /app
